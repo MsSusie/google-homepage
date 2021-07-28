@@ -1,0 +1,22 @@
+body {
+    font-family: arial, sans-serif;
+}
+
+.googleicon {
+    text-align: center;
+}
+
+.middlebuttons {
+    text-align: center;
+    
+}
+
+.gmail {
+    text-align: right;
+}
+
+.signin {
+    padding: auto; 
+    margin: auto; 
+
+}
